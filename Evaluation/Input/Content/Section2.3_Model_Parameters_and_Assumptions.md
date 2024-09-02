@@ -8,7 +8,7 @@ The dissolution of tablets was implemented via empirical Lint80 dissolution, acc
 
 Pitavastatin is highly bound to plasma proteins (>99 %) (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)). A value of 0.52% was used in this PBPK model for `Fraction unbound (plasma, reference value)`. The major binding partner was set to albumin (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)).
 
-An important parameter influencing the resulting volume of distribution is lipophilicity. The reported experimental logP values are in the range of 1.92-2.91 (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)) which served as a starting value. Finally, the model parameters `Lipophilicity` was optimized to match clinical data (see also [Section 2.3.4](#234-automated-parameter-identification)).
+An important parameter influencing the resulting volume of distribution is lipophilicity. The reported experimental logP values are in the range of 1.92-2.91 (see [Section 2.2.1](#221-in-vitro-and-physicochemical-data)) which served as a starting value. Finally, the model parameter `Lipophilicity` was optimized to match clinical data (see also [Section 2.3.4](#234-automated-parameter-identification)).
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation by `Rodgers and Rowland` and cellular permeability calculation by `Charge dependent Schmitt`.
 
@@ -36,15 +36,15 @@ Additionally, renal clearance was set to 0 according to literature (see [Section
 
 ### 2.3.4 Automated Parameter Identification
 
-This is the result of the final parameter identification:
+These are the parameters in the final parameter identification:
 
-| Model Parameter                | Optimized Value | Unit      |
-| ------------------------------ | --------------- | --------- |
-| `Lipophilicity`                | 0.97            | Log Units |
-| `kcat` (OATP1B1)               | 739.176         | 1/min     |
-| `CLspec/[Enzyme]` (OAT3)       | 0.022           | L/µmol/min|
-| `kcat` (BCRP)                  | 0.3826          | 1/min     |
-| `Specific intestinal permeability`| 0.014        | cm/min    |
+| Model Parameter                | 
+| ------------------------------ | 
+| `Lipophilicity`                | 
+| `kcat` (OATP1B1)               | 
+| `CLspec/[Enzyme]` (OAT3)       | 
+| `kcat` (BCRP)                  |
+| `Specific intestinal permeability`|
 
 
  
