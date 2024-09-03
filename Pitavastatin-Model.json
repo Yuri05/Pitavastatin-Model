@@ -2050,21 +2050,6 @@
       "PlasmaProteinBindingPartner": "Albumin",
       "Lipophilicity": [
         {
-          "Name": "Measurement",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Lipophilicity",
-              "Value": 1.92,
-              "Unit": "Log Units",
-              "ValueOrigin": {
-                "Source": "Publication",
-                "Description": "Yoshikado 2018"
-              }
-            }
-          ]
-        },
-        {
           "Name": "fit",
           "Parameters": [
             {
@@ -2075,22 +2060,6 @@
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
                 "Description": "Value updated from 'PI-final' on 2024-03-18 16:36"
-              }
-            }
-          ]
-        },
-        {
-          "Name": "Kimoto 2022",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Lipophilicity",
-              "Value": 2.91,
-              "Unit": "Log Units",
-              "ValueOrigin": {
-                "Source": "Publication",
-                "Method": "ParameterIdentification",
-                "Description": "parameter optimized following the initial experimental input to recover clinical observations by"
               }
             }
           ]
@@ -2151,19 +2120,6 @@
                 "Method": "ParameterIdentification",
                 "Description": "Value updated from 'PI-final' on 2024-03-18 16:37"
               }
-            }
-          ]
-        }
-      ],
-      "Permeability": [
-        {
-          "Name": "fit",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Permeability",
-              "Value": 0.31,
-              "Unit": "cm/min"
             }
           ]
         }
@@ -2250,18 +2206,6 @@
                 "Method": "ParameterIdentification",
                 "Description": "Value updated from 'PI-final' on 2024-03-18 16:36 and correction OSP to Hanke"
               }
-            }
-          ]
-        },
-        {
-          "InternalName": "rCYP450_FirstOrder",
-          "DataSource": "Duan et al 2017",
-          "Molecule": "UGT",
-          "Parameters": [
-            {
-              "Name": "In vitro CL/recombinant enzyme",
-              "Value": 2.2,
-              "Unit": "µl/min/pmol rec. enzyme"
             }
           ]
         },
@@ -2994,7 +2938,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Chen et al. 2013 po 4 mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -3855,7 +3799,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kimoto et al 2022 - Pitavastatin 2 mg iv infusion",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -4096,7 +4040,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kimoto et al 2022 - Pitavastatin po 2mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -4337,7 +4281,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kimoto et al 2022 - Pitavastatin po 4mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -4598,7 +4542,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lou et al. 2015 - Pitavastatin po 1 mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -4839,7 +4783,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lou et al. 2015 - Pitavastatin po 2mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -5080,7 +5024,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Lou et al. 2015 - Pitavastatin po 4mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -5315,7 +5259,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Mori et al 2020 - Pitavastatin po 0.2 mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -5616,7 +5560,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Prueksaritanont et al. 2014 - Pitavastatin po 1 mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -5851,7 +5795,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Takehara et al. 2018 - Pitavastatin po 0.2 mg",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -6082,7 +6026,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*15*15 subjects",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -6308,7 +6252,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*15 subjects",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -6539,7 +6483,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*1b subjects",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
