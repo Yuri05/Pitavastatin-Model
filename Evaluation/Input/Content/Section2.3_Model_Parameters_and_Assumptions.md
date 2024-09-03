@@ -42,7 +42,7 @@ These are the parameters in the final parameter identification:
 | ------------------------------ | 
 | `Lipophilicity`                | 
 | `kcat` (OATP1B1)               | 
-| `CLspec/[Enzyme]` (OAT3)       | 
+| `CLspec/[Enzyme]` (UGT)       | 
 | `kcat` (BCRP)                  |
 | `Specific intestinal permeability`|
 
