@@ -36,7 +36,7 @@ Additionally, renal clearance was set to 0 according to literature (see [Section
 
 ### 2.3.4 Automated Parameter Identification
 
-The following parameters were optimized by fitting the model to the data::
+The following parameters were optimized by fitting the model to the data:
 
 | Model Parameter                |
 | ------------------------------ | 
