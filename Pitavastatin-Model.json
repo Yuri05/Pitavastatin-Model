@@ -2216,7 +2216,7 @@
           "Parameters": [
             {
               "Name": "GFR fraction",
-              "Value": 1.0,
+              "Value": 0,
               "ValueOrigin": {
                 "Source": "Other",
                 "Method": "Assumption"
@@ -2922,12 +2922,12 @@
               "X": "Time",
               "Y": "Chen 2013_4mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Chen et al. 2013 - Pitavastatin - Pitavastatin - PO - 4 mg - Plasma - agg. (n=12)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Chen et al. 2013 - Pitavastatin - Pitavastatin - PO - 4 mg - Plasma - agg. (n=12)|Time",
               "Y": "Chen et al. 2013 - Pitavastatin - Pitavastatin - PO - 4 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -3783,12 +3783,12 @@
               "X": "Time",
               "Y": "Kimoto 2022_2mg_i.v.|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Kimoto et al 2022 - Pitavastatin 2 mg iv infusion - Pitavastatin - IV - 2 mg - Plasma - agg. (n=18)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Kimoto et al 2022 - Pitavastatin 2 mg iv infusion - Pitavastatin - IV - 2 mg - Plasma - agg. (n=18)|Time",
               "Y": "Kimoto et al 2022 - Pitavastatin 2 mg iv infusion - Pitavastatin - IV - 2 mg - Plasma - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -4024,12 +4024,12 @@
               "X": "Time",
               "Y": "Kimoto 2022_2mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Kimoto et al 2022 - Pitavastatin 2mg - Pitavastatin - PO - 2 mg - Plasma - agg. (n=18)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Kimoto et al 2022 - Pitavastatin 2mg - Pitavastatin - PO - 2 mg - Plasma - agg. (n=18)|Time",
               "Y": "Kimoto et al 2022 - Pitavastatin 2mg - Pitavastatin - PO - 2 mg - Plasma - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -4265,12 +4265,12 @@
               "X": "Time",
               "Y": "Kimoto 2022_4 mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Kimoto et al 2022 - Pitavastatin 4mg - Pitavastatin - PO - 4 mg - Plasma - agg. (n=18)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Kimoto et al 2022 - Pitavastatin 4mg - Pitavastatin - PO - 4 mg - Plasma - agg. (n=18)|Time",
               "Y": "Kimoto et al 2022 - Pitavastatin 4mg - Pitavastatin - PO - 4 mg - Plasma - agg. (n=18)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -4526,12 +4526,12 @@
               "X": "Time",
               "Y": "Lou 2015_1mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Lou et al. 2015 - Pitavastatin 1mg - Pitavastatin - PO - 1 mg - Plasma - agg. (n=12)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Lou et al. 2015 - Pitavastatin 1mg - Pitavastatin - PO - 1 mg - Plasma - agg. (n=12)|Time",
               "Y": "Lou et al. 2015 - Pitavastatin 1mg - Pitavastatin - PO - 1 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -4767,12 +4767,12 @@
               "X": "Time",
               "Y": "Luo 2015_2mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Lou et al. 2015 - Pitavastatin 2mg - Pitavastatin - PO - 2 mg - Plasma - agg. (n=12)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Lou et al. 2015 - Pitavastatin 2mg - Pitavastatin - PO - 2 mg - Plasma - agg. (n=12)|Time",
               "Y": "Lou et al. 2015 - Pitavastatin 2mg - Pitavastatin - PO - 2 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -5008,12 +5008,12 @@
               "X": "Time",
               "Y": "Luo 2015_4mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Lou et al. 2015 - Pitavastatin 4mg - Pitavastatin - PO - 4 mg - Plasma - agg. (n=12)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Lou et al. 2015 - Pitavastatin 4mg - Pitavastatin - PO - 4 mg - Plasma - agg. (n=12)|Time",
               "Y": "Lou et al. 2015 - Pitavastatin 4mg - Pitavastatin - PO - 4 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -5243,12 +5243,12 @@
               "X": "Time",
               "Y": "Mori 2020_0.2mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Mori et al 2020 - Pitavastatin - Pitavastatin - PO - 0.2 mg - Plasma - agg. (n=8)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Mori et al 2020 - Pitavastatin - Pitavastatin - PO - 0.2 mg - Plasma - agg. (n=8)|Time",
               "Y": "Mori et al 2020 - Pitavastatin - Pitavastatin - PO - 0.2 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -5544,12 +5544,12 @@
               "X": "Time",
               "Y": "Prueksaritanont 2014_1mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Prueksaritanont et al. 2014 - Pitavastatin - Pitavastatin - PO - 1 mg - Plasma - agg. (n=8)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Prueksaritanont et al. 2014 - Pitavastatin - Pitavastatin - PO - 1 mg - Plasma - agg. (n=8)|Time",
               "Y": "Prueksaritanont et al. 2014 - Pitavastatin - Pitavastatin - PO - 1 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -5779,12 +5779,12 @@
               "X": "Time",
               "Y": "Takehara 2018_0.2mg_po|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Takehara et al. 2018 - Pitavastatin - Pitavastatin - PO - 0.2 mg - Plasma - agg. (n=8)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Takehara et al. 2018 - Pitavastatin - Pitavastatin - PO - 0.2 mg - Plasma - agg. (n=8)|Time",
               "Y": "Takehara et al. 2018 - Pitavastatin - Pitavastatin - PO - 0.2 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -6006,16 +6006,16 @@
           ],
           "Curves": [
             {
-              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*15*15 subjects -Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
               "Y": "Ieiri 2017_2mg_po_SLCO1B1_15_15|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*15*15 subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=3)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*15*15 subjects -Peripheral Venous Blood-Plasma-Concentration",
               "X": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*15*15 subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=3)|Time",
               "Y": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*15*15 subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=3)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
@@ -6232,20 +6232,20 @@
           ],
           "Curves": [
             {
-              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*15 subjects -Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
               "Y": "Ieiri 2017_2mg_po_SLCO1B1_1b_15|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*15 subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=8)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*15 subjects -Peripheral Venous Blood-Plasma-Concentration",
               "X": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*15 subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=8)|Time",
               "Y": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*15 subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
-                "Color": "#008000",
+                "Color": "#0000FF",
                 "LegendIndex": 3,
                 "LineStyle": "None",
                 "Symbol": "Circle"
@@ -6463,16 +6463,16 @@
           ],
           "Curves": [
             {
-              "Name": "Pitavastatin-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*1b subjects -Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
               "Y": "Ieiri 2017_2mg_po_SLCO1B1_1b_1b|Organism|PeripheralVenousBlood|Pitavastatin|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
-                "Color": "#FF0000",
+                "Color": "#0000FF",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*1b subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=11)-Pitavastatin-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "Name": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*1b subjects -Peripheral Venous Blood-Plasma-Concentration",
               "X": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*1b subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=11)|Time",
               "Y": "Ieiri et al. 2007 - Pitavastatin 2mg in SLCO1B1*1b*1b subjects - Pitavastatin - PO - 2 mg - Plasma - agg. (n=11)|ObservedData|Peripheral Venous Blood|Plasma|Pitavastatin|ArithmeticMean",
               "CurveOptions": {
